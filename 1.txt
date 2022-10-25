@@ -1,0 +1,6 @@
+git checkout <…> - cahnge branch
+git commit <name> - commit and get name
+git reset --hard – delete last changes
+git reset HEAD^1 –hard – delte last commit and go back
+git push  – push commit 
+git add – add new file
